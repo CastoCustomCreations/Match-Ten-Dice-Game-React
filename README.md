@@ -1,6 +1,3 @@
-## Description
-This is Tenzies game I coded with React.js
 
-## Getting started
 
-Play it here: https://castocustomcreations.github.io/TENZIES-GAME-REACT-APP-main/ !
+Play it here: https://github.com/CastoCustomCreations/Match-Ten-Dice-Game-React !
