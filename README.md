@@ -1,3 +1,3 @@
 
 
-Play it here: https://github.com/CastoCustomCreations/Match-Ten-Dice-Game-React !
+Play it here: https://castocustomcreations.github.io/Match-Ten-Dice-Game-React/ !
