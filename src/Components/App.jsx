@@ -66,7 +66,7 @@ export default function App() {
   return (
     <main>
       {tenzies && <Confetti />}
-      <h1 className="title">Tenzies</h1>
+      <h1 className="title">Match Ten Dice Game</h1>
       <p className="instructions">
         Keep Rolling until all ten dice are the same. Click each die to freeze it at its
         current value between rolls.
